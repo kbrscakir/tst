@@ -13,10 +13,10 @@ test 3 bu kalacak
 pullrequest 
 
 test 3 - test 4
-test 4 aralara ekleme
-plreqts
+testaralara ekleme
+pulreqts
 test 3 bu kalcak
-
+asdasd
 
 
 test 3 ttttt
